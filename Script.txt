@@ -1,0 +1,1 @@
+Get-ChildItem -Path "C:\Temp" -Recurse -Include "*.txt" | Rename-Item -NewName { $_.Name -replace " ","-" }
