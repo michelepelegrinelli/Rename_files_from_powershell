@@ -1,5 +1,5 @@
 # Rename_files_from_powershell
-Permette di rinominare i file all' interno di una cartella tramite powershell
+Permette di rinominare tutti i file all' interno di una cartella tramite powershell
 
 1 - Apri la powershell e recati sulla cartella desiderata
 2 - Incolla lo script
